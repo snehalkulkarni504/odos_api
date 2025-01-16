@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ODOS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5cf6b06bdeec80a67665b4b9a66eda64819f5a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ODOS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ODOS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
