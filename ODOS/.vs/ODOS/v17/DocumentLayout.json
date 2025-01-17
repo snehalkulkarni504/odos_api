@@ -1,30 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github Projects\\odos_api\\ODOS\\",
+  "WorkspaceRootPath": "D:\\ODOS_API\\odos_api\\ODOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\controllers\\odoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\controllers\\odoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\controllers\\odoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\models\\contractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\models\\contractdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\interfaces\\iodosinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\interfaces\\iodosinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\models\\contractmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\models\\contractmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\context\\odoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\context\\odoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\repositories\\odosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\repositories\\odosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\repositories\\odosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\github projects\\odos_api\\odos\\odos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\dependencyinjection\\containerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\dependencyinjection\\containerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\interfaces\\iodosinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\interfaces\\iodosinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\context\\odoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\context\\odoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|d:\\odos_api\\odos_api\\odos\\odos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEEC9F86-2DEB-4DE4-AD6D-AB6349A1476B}|ODOS\\ODOS.csproj|solutionrelative:odos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,16 +53,44 @@
           "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ODOSContext.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Context\\ODOSContext.cs",
+              "RelativeDocumentMoniker": "ODOS\\Context\\ODOSContext.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Context\\ODOSContext.cs",
+              "RelativeToolTip": "ODOS\\Context\\ODOSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:34:04.612Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contractdata.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Models\\contractdata.cs",
+              "RelativeDocumentMoniker": "ODOS\\Models\\contractdata.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Models\\contractdata.cs",
+              "RelativeToolTip": "ODOS\\Models\\contractdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:49:27.018Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "contractmaster.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Models\\contractmaster.cs",
+              "RelativeDocumentMoniker": "ODOS\\Models\\contractmaster.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Models\\contractmaster.cs",
+              "RelativeToolTip": "ODOS\\Models\\contractmaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T08:48:38.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -80,78 +124,91 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ODOSController.cs",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Controllers\\ODOSController.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Controllers\\ODOSController.cs",
               "RelativeDocumentMoniker": "ODOS\\Controllers\\ODOSController.cs",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Controllers\\ODOSController.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Controllers\\ODOSController.cs",
               "RelativeToolTip": "ODOS\\Controllers\\ODOSController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:41:40.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ODOS\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ODOS\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:41:19.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IODOSInterface.cs",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Interfaces\\IODOSInterface.cs",
-              "RelativeDocumentMoniker": "ODOS\\Interfaces\\IODOSInterface.cs",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Interfaces\\IODOSInterface.cs",
-              "RelativeToolTip": "ODOS\\Interfaces\\IODOSInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:40:48.729Z",
+              "WhenOpened": "2025-01-17T05:22:20.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ODOSContext.cs",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Context\\ODOSContext.cs",
-              "RelativeDocumentMoniker": "ODOS\\Context\\ODOSContext.cs",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Context\\ODOSContext.cs",
-              "RelativeToolTip": "ODOS\\Context\\ODOSContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ODOSRepository.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Repositories\\ODOSRepository.cs",
+              "RelativeDocumentMoniker": "ODOS\\Repositories\\ODOSRepository.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Repositories\\ODOSRepository.cs",
+              "RelativeToolTip": "ODOS\\Repositories\\ODOSRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:29:42.518Z",
+              "WhenOpened": "2025-01-17T04:37:49.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ODOSRepository.cs",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Repositories\\ODOSRepository.cs",
-              "RelativeDocumentMoniker": "ODOS\\Repositories\\ODOSRepository.cs",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\Repositories\\ODOSRepository.cs",
-              "RelativeToolTip": "ODOS\\Repositories\\ODOSRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Program.cs",
+              "RelativeDocumentMoniker": "ODOS\\Program.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Program.cs",
+              "RelativeToolTip": "ODOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:29:12.356Z",
+              "WhenOpened": "2025-01-17T04:42:22.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ODOS\\appsettings.Development.json",
-              "ToolTip": "D:\\Github Projects\\odos_api\\ODOS\\ODOS\\appsettings.Development.json",
-              "RelativeToolTip": "ODOS\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "ContainerConfiguration.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\DependencyInjection\\ContainerConfiguration.cs",
+              "RelativeDocumentMoniker": "ODOS\\DependencyInjection\\ContainerConfiguration.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\DependencyInjection\\ContainerConfiguration.cs",
+              "RelativeToolTip": "ODOS\\DependencyInjection\\ContainerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:51:10.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IODOSInterface.cs",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Interfaces\\IODOSInterface.cs",
+              "RelativeDocumentMoniker": "ODOS\\Interfaces\\IODOSInterface.cs",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Interfaces\\IODOSInterface.cs",
+              "RelativeToolTip": "ODOS\\Interfaces\\IODOSInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T04:42:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\appsettings.json",
+              "RelativeDocumentMoniker": "ODOS\\appsettings.json",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\appsettings.json",
+              "RelativeToolTip": "ODOS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T07:22:46.553Z",
+              "WhenOpened": "2025-01-17T04:37:26.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ODOS\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ODOS_API\\odos_api\\ODOS\\ODOS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ODOS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T04:42:18.194Z",
               "EditorCaption": ""
             }
           ]
